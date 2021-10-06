@@ -87,7 +87,7 @@ class TinderBot():
     def auto_swipe(self):
         while True:
             sleep(1)
-            
+            #auto like function
             self.like()
             # auto-close popup
             # try:
